@@ -1,2 +1,2 @@
 # llm_basics
-Covering Basics of LLMs
+Sharing my notebooks here for various topics related to LLMs here.
